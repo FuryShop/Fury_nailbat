@@ -3,16 +3,6 @@ Autor: Fury Shop
 Version: 1.0.0
 Creation date: 09-10-2024
 
---Ox Inventory -> data -> weapons.lua
--- add
-
-
-['WEAPON_FURYNAILBAT'] 	= 
-	{ label = 'Nail Bat',    	
-	weight = 1000,
-	durability = 0.0,	
-}, 
- 
 Only tested on OX-INVENTORY
 - No support for other inventories
 
